@@ -15,26 +15,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/ramon-herdy-617187171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-##
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-  
-</div>
-<div align="center">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondpreuss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img align="center" alt="GIF" height="200" width="280" src="xx?raw=true">
