@@ -8,6 +8,13 @@
   <img align="center" alt="Herdy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Herdy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Herdy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+#
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herdy721&show_icons=true&theme=dark)](https://github.com/herdy721/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herdy721&layout=donut-vertical&theme=dark))](https://github.com/Herdy721/github-readme-stats)
+
 </div>
 
 ##
@@ -18,7 +25,22 @@
 
   <img align="center" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herdy721&show_icons=true&theme=dark)](https://github.com/herdy721/github-readme-stats)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+  
 
   
 
