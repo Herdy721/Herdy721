@@ -16,4 +16,4 @@
   <a href="https://www.linkedin.com/in/ramon-herdy-617187171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  <img align="center" alt="GIF" height="200" width="280" src="xx?raw=true">
+  <img align="center" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
