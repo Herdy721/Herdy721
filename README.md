@@ -17,3 +17,8 @@
 </div>
 
   <img align="center" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herdy721&show_icons=true&theme=dark)](https://github.com/herdy721/github-readme-stats)
+
+  
+
