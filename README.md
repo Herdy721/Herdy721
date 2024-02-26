@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS, PYTHON e DJANGO
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Herdy-HTML" height="30" width="40" src="https://c0.klipartz.com/pngpicture/330/276/gratis-png-bash-shell-script-bourne-shell-scripting-lenguaje-unix-shell-shell.png">
+  <img align="center" alt="Herdy-HTML" height="30" width="26" src="https://play-lh.googleusercontent.com/ouYRMbe6yFT06JVoIIDJUJEf1L7ftnUdo3K-yEha45Y9zDM57ocrITQZjQBPrCg2tQ=w480-h960-rw">
   <img align="center" alt="Herdy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Herdy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Herdy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
