@@ -1,7 +1,8 @@
 ### Olá mundo! 👋
 
 - 🔭 Hoje eu trabalho com SHELL SCRIPT
-- 🌱 Estudando HTML, CSS, PYTHON e DJANGO
+- 🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT e DJANGO
+- 🚩 Meta: Full stack
 
 <img align="right" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
 
