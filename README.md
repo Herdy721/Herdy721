@@ -1,7 +1,7 @@
 ### Olá mundo! 👋
 
 - 🔭 Hoje eu trabalho com SHELL SCRIPT
-- 🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT, FLASK e DJANGO
+- 🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT, FLASK , DJANGO e MySQL
 - 🚩 Objetivo: Full stack
 
 <img align="right" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
@@ -13,6 +13,7 @@
   <img align="center" alt="Herdy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Herdy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Herdy-flask" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSMkat3wWKR6ke_PFliKlBbTEunnnjr5bMdva41vL8lAChIrHpQhhlQ_eZNyVuL9SIqs&usqp=CAU">
+  <img align="center" alt="Herdy-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.svg">
   
   
           
