@@ -4,11 +4,13 @@
   </a>
 </div>
 
+<img align="right" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
+
 <li>🔭 Hoje eu trabalho com SHELL SCRIPT </li>
 <li>🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT, FLASK , DJANGO e MySQL</li>
 <li>🚩 Objetivo: Full stack</li>
 
-<img align="right" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
+
 
  <h4>🚀 Principais tecnologias: </h4>
 <div align="center">
@@ -25,7 +27,6 @@
     <li>📺 Assistir series, animes e filmes</li>
   </ul>
 </div>
-
           
 </div>
 
