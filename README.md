@@ -12,7 +12,7 @@
 
 
 
- <h4>🚀 Principais tecnologias: </h4>
+🚀 Principais tecnologias:
 <div>
   <img src="https://skillicons.dev/icons?i=bash,html,css,py,flask,mysql,grafana,git,github,gitlab,vscode,&perline=14" />
 </div>
