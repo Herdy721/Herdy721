@@ -1,27 +1,31 @@
-### Olá mundo! 👋
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=Olá+mundo!+👋;Me+chamo+Ramon+Herdy+😎;Seja+bem+vindo!" alt="Typing SVG">
+  </a>
+</div>
 
-- 🔭 Hoje eu trabalho com SHELL SCRIPT
-- 🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT, FLASK , DJANGO e MySQL
-- 🚩 Objetivo: Full stack
+<li>🔭 Hoje eu trabalho com SHELL SCRIPT </li>
+<li>🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT, FLASK , DJANGO e MySQL</li>
+<li>🚩 Objetivo: Full stack</li>
 
 <img align="right" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Herdy-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
-  <img align="center" alt="Herdy-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">       
-  <img align="center" alt="Herdy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Herdy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Herdy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Herdy-flask" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSMkat3wWKR6ke_PFliKlBbTEunnnjr5bMdva41vL8lAChIrHpQhhlQ_eZNyVuL9SIqs&usqp=CAU">
-  <img align="center" alt="Herdy-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Herdy-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Herdy-GITLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">
-  <img align="center" alt="Herdy-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  
+ <h4>🚀 Principais tecnologias: </h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash,html,css,py,flask,mysql,grafana,git,github,gitlab,vscode,&perline=14" />
+</div>
 
-  
-  
-  
+<div>
+  <h4>Eu gosto de...</h4>
+ 
+  <ul>
+    <li>👩‍💻 Codar</li>
+    <li>🌌 Astronomia</li>
+    <li>🎮 Jogar</li>
+    <li>📺 Assistir series, animes e filmes</li>
+  </ul>
+</div>
+
           
 </div>
 
@@ -42,7 +46,7 @@
 
 ##
 
-<div> 
+<div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/ramon-herdy-617187171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
