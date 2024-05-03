@@ -7,13 +7,13 @@
 <img align="right" alt="GIF" width="200" src="https://github.com/Herdy721/Herdy721/blob/main/coding.gif?raw=true">
 
 <li>🔭 Hoje eu trabalho com SHELL SCRIPT </li>
-<li>🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT, FLASK , DJANGO e MySQL</li>
+<li>🌱 Estudando HTML, CSS, PYTHON, JAVASCRIPT, FLASK , DJANGO, TypeScript e MySQL</li>
 <li>🚩 Objetivo: Full stack</li>
 
 
 <div>
 <h4>🚀 Principais tecnologias:</h4>
-  <img src="https://skillicons.dev/icons?i=bash,html,css,py,flask,mysql,grafana,git,github,gitlab,vscode,javascript&perline=6" />
+  <img src="https://skillicons.dev/icons?i=bash,html,css,py,flask,mysql,grafana,git,github,gitlab,vscode,javascript,typescript&perline=15" />
 </div>
 
 <div>
